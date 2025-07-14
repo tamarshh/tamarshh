@@ -33,7 +33,7 @@ Let’s connect and build something amazing together!
 
 ## 📫 How to Reach Me  
 
-- 🌐 **GitHub:** [github.com/tamarshh](https://github.com/tamarshh)  
+
 - 💼 **LinkedIn:** [linkedin.com/in/tamarshh](https://www.linkedin.com/in/tamarshh)  
 - ✉️ **Email:** tamarshss2003@gmail.com
 
