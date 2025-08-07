@@ -49,5 +49,7 @@ Thanks for stopping by! **Happy Coding! 🚀**
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=tamarshh&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamarshh&show_icons=true&theme=radical)
+
 
 
