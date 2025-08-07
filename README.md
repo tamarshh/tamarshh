@@ -48,6 +48,6 @@ Feel free to reach out for discussions, collaborations, or just a tech chat!
 Thanks for stopping by! **Happy Coding! 🚀**  
 
 
-![Visitor Count](https://komarev.com/ghpvc/?tamarshh&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=tamarshh&color=blue)
 
 
